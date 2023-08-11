@@ -1,0 +1,33 @@
+.custom-height{
+    height: 500px
+}
+
+.objectives{
+    grid-template-columns: 1fr 1fr;
+}
+
+section{
+    background-color:white;
+    
+}
+
+.custom-container {
+    height: 100vh;
+}
+
+.custom-caption {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    display: block;
+}
+
+@media (max-width:575px){
+
+}
+

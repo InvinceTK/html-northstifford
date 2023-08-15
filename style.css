@@ -14,7 +14,9 @@ section{
 .custom-container {
     height: 100vh;
 }
-
+h3{
+    text-decoration: underline;
+}
 .custom-caption {
     height: 100vh;
     display: flex;
